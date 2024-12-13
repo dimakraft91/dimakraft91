@@ -28,7 +28,7 @@
         </td>
         <td>
             <a href="https://github.com/dimakraft91/keto" title="Open git repo">
-                  <a href="https://dimakraft91.github.io/keto/app/" title="Open git repo">Git Repo</a> <br /> <a href="https://dimakraft91.github.io/keto/app/" title="KETO">Github Pages Preview</a>
+               <br />   <a href="https://dimakraft91.github.io/keto/app/" title="Open git repo">Git Repo</a> <br /> <a href="https://dimakraft91.github.io/keto/app/" title="KETO">Github Pages Preview</a>
             </a>
         </td>
     </tr>
