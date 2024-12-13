@@ -24,12 +24,11 @@
     <tr>
         <td>
             <a href="https://github.com/dimakraft91/afflex" title="Open git repo">
-                <img src="" alt="Afflex" width="400"/>
             </a> <br /> <a href="https://github.com/dimakraft91/afflex/tree/main" title="Open git repo">Git Repo</a> <br /> <a href="https://dimakraft91.github.io/afflex/" title="Open Github Pages preiew">Github Pages Preview</a>
         </td>
         <td>
             <a href="https://github.com/dimakraft91/keto" title="Open git repo">
-                  <img src="" alt="KETO" width="400"/> <br /> <a href="https://dimakraft91.github.io/keto/app/" title="Open git repo">Git Repo</a> <br /> <a href="https://dimakraft91.github.io/keto/app/" title="KETO">Github Pages Preview</a>
+                  <a href="https://dimakraft91.github.io/keto/app/" title="Open git repo">Git Repo</a> <br /> <a href="https://dimakraft91.github.io/keto/app/" title="KETO">Github Pages Preview</a>
             </a>
         </td>
     </tr>
